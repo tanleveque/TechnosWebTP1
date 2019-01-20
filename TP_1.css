@@ -1,0 +1,155 @@
+body{
+	margin : auto;
+	width: 80%; 
+	margin-top: 10px;
+}
+
+header {
+
+	margin-top: 100px;
+
+	border: solid;
+	border-width: 4px;
+	border-color: black;
+}
+
+h1.name{
+	position: relative;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px; 
+}
+
+p.bio{
+	position: relative;
+	margin-left: 50px;
+	margin-right:50px;
+}
+
+div.competences{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+article.tech{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+article.langues{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+div.projet{
+	
+	padding-top: 5px;
+	padding-left: 20px: 
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+div.experiances{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-left: 20px: 
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+div.formation{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-left: 20px: 
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+div.interets{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-left: 20px: 
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+h4.competances{
+	text-align: center;
+}
+
+h4.langues{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px; 
+}
+
+
+.navbar {
+  display: flex;
+  background-color: #333;
+  justify-content: space-between;
+}
+
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+form {
+	margin-top: 20px;
+	margin-left: 5px;
+	margin-right: 5px;	
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #b2b2b2;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #686868;
+}
+
