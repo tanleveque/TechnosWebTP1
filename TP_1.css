@@ -1,36 +1,30 @@
 body{
-	margin : auto;
-	width: 80%; 
-	margin-top: 10px;
+	background-color: #E6E8EE;
 }
 
 header {
-
-	margin-top: 100px;
-
-	border: solid;
-	border-width: 4px;
-	border-color: black;
+ 	background-color: #CCD5E0;
 }
 
 h1.name{
 	position: relative;
 	text-align: center;
+	padding: 10px;
 	margin-left: 50px;
 	margin-right: 50px; 
+	margin-bottom: 0px;
+	color: #1F2833;
 }
 
-p.bio{
-	position: relative;
-	margin-left: 50px;
-	margin-right:50px;
+section{
+
 }
 
 div.competences{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	padding: 20px;
+
 }
 
 article.tech{
@@ -55,9 +49,6 @@ div.experiances{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	padding-left: 20px: 
-	padding-right: 20px;
-	padding-bottom: 20px;
 }
 
 div.formation{
@@ -86,6 +77,27 @@ h4.langues{
 	text-align: center;
 }
 
+h4.experiance{
+	margin-bottom: 0px;
+	padding: 15px;
+}
+
+h4.formation{
+	margin-bottom: 0px;
+	padding: 15px;
+}
+
+img.profilPicture{
+	width: 15%;
+	height: 15%;
+
+}
+
+.videoLink{
+	width: 75%;
+	height: 25%;
+}	
+
 ul{
 	list-style-type: none;
 	padding-left: 0px; 
@@ -94,7 +106,7 @@ ul{
 
 .navbar {
   display: flex;
-  background-color: #333;
+  background-color: #1F2833;
   justify-content: space-between;
 }
 
@@ -106,7 +118,7 @@ ul{
 }
 
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: #E6E8EE;
   color: black;
 }
 
@@ -140,8 +152,8 @@ input[type=text], select {
 
 input[type=submit] {
   width: 100%;
-  background-color: #b2b2b2;
-  color: white;
+  background-color: #F0C5D6;
+  color: black;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -152,4 +164,24 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #686868;
 }
+
+.bg1{
+	background-color: #ADD1C3;
+}
+
+.bg2{
+	background-color: #FEE0A1;
+}
+
+.bg3{
+	background-color: #F0C5D6;
+}
+
+.bg4{
+	background-color:#CCD5E0; 
+}
+
+
+
+
 
