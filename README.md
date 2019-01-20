@@ -1,5 +1,7 @@
 # TechnosWebTP1
 
+# Tanneguy LEVÊQUE, OCRES Groupe 04
+
 ## Instructions
 
 Créer un site CV **présentable** qui pourra être mis en ligne par vos soins
@@ -22,3 +24,5 @@ Créer un site CV **présentable** qui pourra être mis en ligne par vos soins
 
   Vous forkez ce repository et vous commencez à travailler sur **votre** copie. Si vous avez des doutes demandez à votre professeur il est la pour ça.
   Vous modifiez votre readme et vous y incorporez **votre prénom, votre nom et votre TD**
+
+
