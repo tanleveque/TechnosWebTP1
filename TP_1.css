@@ -45,7 +45,7 @@ div.projet{
 	padding-bottom: 20px;
 }
 
-div.experiances{
+div.expériences{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
@@ -77,7 +77,7 @@ h4.langues{
 	text-align: center;
 }
 
-h4.experiance{
+h4.expériences{
 	margin-bottom: 0px;
 	padding: 15px;
 }
@@ -93,9 +93,8 @@ img.profilPicture{
 
 }
 
-.videoLink{
-	width: 75%;
-	height: 25%;
+.mediaLink{
+
 }	
 
 ul{
