@@ -103,6 +103,8 @@ ul{
 }
 
 
+
+
 .navbar {
   display: flex;
   background-color: #1F2833;
@@ -180,7 +182,9 @@ input[type=submit]:hover {
 	background-color:#CCD5E0; 
 }
 
-
-
+.iframe {
+	width: 50%;
+	
+}
 
 
